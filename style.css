@@ -1,0 +1,32 @@
+body{
+    background-color: lightpink;
+}
+
+.head1{
+    text-align: center;
+}
+
+#myImage{
+    width: 437px;
+    height: 437px;
+    position: absolute;
+    margin-left: 300px;
+}
+#Btn1{
+    display: inline-block;
+    background-color: #f8b627;
+    color: #f4f4f4;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 3px;
+    transition: 400ms;
+    text-decoration: none;
+    padding: 10ex;
+    z-index: 100000;
+    cursor: pointer;
+}
+
+img{
+    width: 50px;
+}
